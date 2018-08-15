@@ -77,7 +77,7 @@
 							@if(Auth::check())
 								Profile
 							@else
-								Signin
+								Sign in
 							@endif
 						</a></li>
 				</ul>
@@ -91,7 +91,7 @@
 	<!-- Home -->
 	<div id="home">
 		<!-- background image -->
-		<div class="section-bg" style="background-image:url(ix/img/crowd.jpg)" data-stellar-background-ratio="0.5"></div>
+		<div class="section-bg" style="background-image:url(ix/img/bg.jpg)" data-stellar-background-ratio="0.5"></div>
 		<!-- /background image -->
 
 		<!-- home wrapper -->
@@ -173,7 +173,7 @@
 				<div class="col-md-8 col-md-offset-2">
 					<div class="cta-content text-center">
 						<h2>take a peek of the event</h2>
-						<iframe width="100%" height="527" src="https://www.youtube.com/embed/mzr1js0Rgso" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+						<iframe width="100%" height="527" src="https://www.youtube.com/embed/4ecxqrHT1m0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 					</div>
 				</div>
 				<!-- /cta content -->
@@ -184,7 +184,7 @@
 	</div>
 	<!-- /Video CTA -->
 
-	<!-- Event Schedule -->
+		<!-- Event Schedule -->
 	<div id="schedule" class="section">
 		<!-- container -->
 		<div class="container">
@@ -203,85 +203,60 @@
 						<div class="event">
 							<div class="event-day">
 								<div>
-									<span class="day">15</span>
-									<span class="year">Feb, 2018</span>
-								</div>
-							</div>
-							<div class="event-content">
-								<p class="event-time"><i class="fa fa-clock-o"></i> 8 : 00 AM - 11 : 00 AM</p>
-								<h3 class="event-title">His id altera fabellas facilisis. Has eros assueverit cu</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-								<p>By <a href="/#">John Doe</a></p>
-							</div>
-						</div>
-						<!-- /event -->
-
-						<!-- event -->
-						<div class="event">
-							<div class="event-hour"></div>
-							<div class="event-content">
-								<p class="event-time"><i class="fa fa-clock-o"></i> 8 : 00 AM - 11 : 00 AM</p>
-								<h3 class="event-title">Perpetua consectetuer definitiones id sea, mei utinam eripuit ne</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-								<p>By <a href="/#">John Doe</a></p>
-							</div>
-						</div>
-						<!-- /event -->
-
-						<!-- event -->
-						<div class="event">
-							<div class="event-hour"></div>
-							<div class="event-content">
-								<p class="event-time"><i class="fa fa-clock-o"></i> 8 : 00 AM - 11 : 00 AM</p>
-								<h3 class="event-title">At mucius deserunt delicatissimi eam, labitur detraxit ut sit</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-								<p>By <a href="/#">John Doe</a></p>
-							</div>
-						</div>
-						<!-- /event -->
-
-						<!-- event -->
-						<div class="event">
-							<div class="event-day">
-								<div>
-									<span class="day">16</span>
-									<span class="year">Feb, 2018</span>
-								</div>
-							</div>
-							<div class="event-content">
-								<p class="event-time"><i class="fa fa-clock-o"></i> 8 : 00 AM - 11 : 00 AM</p>
-								<h3 class="event-title">His id altera fabellas facilisis. Has eros assueverit cu</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-								<p>By <a href="/#">John Doe</a></p>
-							</div>
-						</div>
-						<!-- /event -->
-
-						<!-- event -->
-						<div class="event">
-							<div class="event-hour"></div>
-							<div class="event-content">
-								<p class="event-time"><i class="fa fa-clock-o"></i> 8 : 00 AM - 11 : 00 AM</p>
-								<h3 class="event-title">At mucius deserunt delicatissimi eam, labitur detraxit ut sit</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-								<p>By <a href="/#">John Doe</a></p>
-							</div>
-						</div>
-						<!-- /event -->
-
-						<!-- event -->
-						<div class="event">
-							<div class="event-day">
-								<div>
 									<span class="day">17</span>
-									<span class="year">Feb, 2018</span>
+									<span class="year">August, 2018</span>
 								</div>
 							</div>
 							<div class="event-content">
-								<p class="event-time"><i class="fa fa-clock-o"></i> 8 : 00 AM - 11 : 00 AM</p>
-								<h3 class="event-title">His id altera fabellas facilisis. Has eros assueverit cu</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-								<p>By <a href="/#">John Doe</a></p>
+								<p class="event-time"><i class="fa fa-clock-o"></i>00 : 00</p>
+								<h3 class="event-title">SPARE Registration is Open</h3>
+								<p>This is the start date for you who want to buy Fun-Run and Festival Ticket</p>
+							</div>
+						</div>
+						<!-- /event -->
+
+						<!-- event -->
+						<div class="event">
+							<div class="event-day">
+								<div>
+									<span class="day">TBH</span>
+								</div>
+							</div>
+							<div class="event-content">
+								<p class="event-time"><i class="fa fa-clock-o"></i> All day</p>
+								<h3 class="event-title">Open Recruitment Band Audition</p>
+							</div>
+						</div>
+						<!-- /event -->
+
+						<!-- event -->
+						<div class="event">
+							<div class="event-day">
+								<div>
+									<span class="day">5-7</span>
+									<span class="year">Oktober, 2018</span>
+								</div>
+							</div>
+							<div class="event-content">
+								<p class="event-time"><i class="fa fa-clock-o"></i>08 : 00 - 16 : 00</p>
+								<h3 class="event-title">Racepack Collection</h3>
+								<p>it is required for all participants to collect their race pack within the stated race pack collection period</p>
+								<p>at <a href="#">Faculty of Public Health, University of Indonesia</a></p>
+							</div>
+						</div>
+						<!-- /event -->
+
+						<!-- event -->
+						<div class="event">
+							<div class="event-day">
+								<div>
+									<span class="day">21</span>
+									<span class="year">November, 2018</span>
+								</div>
+							</div>
+							<div class="event-content">
+								<p class="event-time"><i class="fa fa-clock-o"></i>06 : 30 - 15 : 00</p>
+								<h3 class="event-title">SPARE Day</h3>
 							</div>
 						</div>
 						<!-- /event -->
@@ -290,19 +265,32 @@
 						<div class="event">
 							<div class="event-hour"></div>
 							<div class="event-content">
-								<p class="event-time"><i class="fa fa-clock-o"></i> 8 : 00 AM - 11 : 00 AM</p>
-								<h3 class="event-title">At mucius deserunt delicatissimi eam, labitur detraxit ut sit</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-								<p>By <a href="/#">John Doe</a></p>
+								<p class="event-time"><i class="fa fa-clock-o"></i> 06 : 30 AM - 15 : 00 AM</p>
+								<h3 class="event-title">Fun Run</h3>
+								<p>The FUN RUN will be held with a 5 km long track, provides
+								refreshment at the start line and water station every 2.5 km distance.
+								Along the running track, there’s information about health, especially
+								heart health, which aims to educate the runners.</p>
+								<p>At <a href="#">University of Indonesia</a></p>
+							</div>
+						</div>
+						<!-- /event -->
+
+						<!-- event -->
+						<div class="event">
+							<div class="event-hour"></div>
+							<div class="event-content">
+								<p class="event-time"><i class="fa fa-clock-o"></i> 09 : 00 AM - 15 : 00 AM</p>
+								<h3 class="event-title">Festival</h3>
+								<p>The FESTIVAL consists of open tenants, games, live mural from the
+								mural community, open stage performances, band audition
+								performances and guest star performances. Visitors can directly
+								watch the mural-making with the heart issue theme.</p>
+								<p>In <a href="#">Faculty of Public Health, University of Indonesia</a></p>
 							</div>
 						</div>
 						<!-- /event -->
 					</div>
-
-					<div class="download-btn">
-						<a href="/#" class="main-btn">Download Schedule</a>
-					</div>
-
 				</div>
 			</div>
 			<!-- /row -->
@@ -310,7 +298,6 @@
 		<!-- /container -->
 	</div>
 	<!-- /Event Schedule -->
-
 	<!-- Speakers -->
 	<div id="speakers" class="section">
 		<!-- container -->
@@ -549,8 +536,8 @@
 				<!-- contact -->
 				<div class="col-sm-4">
 					<div class="contact">
-						<h3>Phone</h3>
-						<p>570-751-2415</p>
+						<h3>Official Line</h3>
+						<p>@bby2266y</p>
 					</div>
 				</div>
 				<!-- /contact -->
@@ -559,7 +546,7 @@
 				<div class="col-sm-4">
 					<div class="contact">
 						<h3>Email</h3>
-						<a href="/#">csspare.com</a>
+						<a href="#">cs@spare.com</a>
 					</div>
 				</div>
 				<!-- /contact -->
@@ -582,13 +569,21 @@
 			<!-- row -->
 			<div class="row">
 
+				<!-- footer logo -->
+				<div class="col-md-4 col-md-push-4">
+					<div class="footer-brand">
+						<a class="logo" href="index.html">
+						</a>
+					</div>
+				</div>
+				<!-- /footer logo -->
 
 				<!-- contact social -->
-				<div class="col-md-4 col-md-push-8">
+				<div class="col-md-4 col-md-push-4">
 					<div class="contact-social">
-						<a href="/#"><i class="fa fa-youtube-play"></i></a>
-						<a href="/#"><i class="fa fa-twitter"></i></a>
-						<a href="/#"><i class="fa fa-instagram"></i></a>
+						<a href="https://www.youtube.com/channel/UC1k7q2pWaFum0Mvt3DNGdvw"><i class="fa fa-youtube-play"></i></a>
+						<a href="https://twitter.com/sparefkmui"><i class="fa fa-twitter"></i></a>
+						<a href="https://www.instagram.com/sparefkmui/"><i class="fa fa-instagram"></i></a>
 					</div>
 				</div>
 				<!-- /contact social -->
@@ -597,7 +592,7 @@
 				<div class="col-md-4 col-md-pull-8">
 					<span class="copyright"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved
-</span>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></span>
 				</div>
 				<!-- /copyright -->
 
@@ -607,7 +602,6 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 		<!-- /container -->
 	</footer>
 	<!-- /Footer -->
-
 	<!-- jQuery Plugins -->
 	<script src="/ix/js/jquery.min.js"></script>
 	<script src="/ix/js/bootstrap.min.js"></script>

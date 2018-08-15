@@ -145,7 +145,7 @@
 									@endif
 
 									<div class="form-group signin-input">
-										<input type="text" name="username" tabindex="1" class="form-control" placeholder="Username" value="">
+										<input type="text" name="username" tabindex="1" class="form-control" placeholder="Email Address" value="">
 									</div>
 									<div class="form-group signin-input">
 										<input type="password" name="password" tabindex="2" class="form-control" placeholder="Password">
@@ -332,8 +332,8 @@
 				<!-- contact -->
 				<div class="col-sm-4">
 					<div class="contact">
-						<h3>Phone</h3>
-						<p>570-751-2415</p>
+						<h3>Official Line</h3>
+						<p>@bby2266y</p>
 					</div>
 				</div>
 				<!-- /contact -->
@@ -351,6 +351,10 @@
 			<!-- /row -->
 		</div>
 		<!-- /container -->
+
+		<!-- Map -->
+		<div id="map"></div>
+		<!-- /Map -->
 	</div>
 	<!-- /Contact -->
 
@@ -373,12 +377,9 @@
 				<!-- contact social -->
 				<div class="col-md-4 col-md-push-4">
 					<div class="contact-social">
-						<a href="#"><i class="fa fa-facebook"></i></a>
-						<a href="#"><i class="fa fa-twitter"></i></a>
-						<a href="#"><i class="fa fa-google-plus"></i></a>
-						<a href="#"><i class="fa fa-instagram"></i></a>
-						<a href="#"><i class="fa fa-pinterest"></i></a>
-						<a href="#"><i class="fa fa fa-linkedin"></i></a>
+						<a href="https://www.youtube.com/channel/UC1k7q2pWaFum0Mvt3DNGdvw"><i class="fa fa-youtube-play"></i></a>
+						<a href="https://twitter.com/sparefkmui"><i class="fa fa-twitter"></i></a>
+						<a href="https://www.instagram.com/sparefkmui/"><i class="fa fa-instagram"></i></a>
 					</div>
 				</div>
 				<!-- /contact social -->
@@ -387,7 +388,7 @@
 				<div class="col-md-4 col-md-pull-8">
 					<span class="copyright"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved
-</span>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></span>
 				</div>
 				<!-- /copyright -->
 

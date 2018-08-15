@@ -102,7 +102,10 @@
 					<div class="home-content">
 							<img class="center" src="/ix/img/fun run 3.png" style="width: 50%; margin-bottom: 16px">
 							<h6 class="lead" style="text-align: center">A <strong>run </strong>full of <strong>joy</strong></h6>
-							<a href="#" class="main-btn center ta-c" style="width: 280px;">download guideline</a>
+							<div class="row">
+								<a href="/user/register/event?event=fun-run" class="main-btn ta-c col-md-5">buy ticket</a>
+								<a href="#" class="main-btn col-md-6 col-md-offset-1">download guideline</a>
+							</div>
 						</div>
 				</div>
 			</div>
@@ -174,8 +177,8 @@
 						<!-- sponsor -->
 						<div class="col-md-4 col-sm-4 col-xs-6">
 							<a href="#" class="sponsor">
-								<img src="ix/img/racepack 1.png" alt="">
-								<span class="whitefont">Lorem</span>
+								<img src="ix/img/3.png" alt="">
+								<span class="whitefont">Shirt</span>
 							</a>
 						</div>
 						<!-- /sponsor -->
@@ -183,8 +186,8 @@
 						<!-- sponsor -->
 						<div class="col-md-4 col-sm-4 col-xs-6">
 							<a href="#" class="sponsor">
-								<img src="ix/img/racepack 1.png" alt="">
-								<span class="whitefont">Lorem</span>
+								<img src="ix/img/bib.png" alt="">
+								<span class="whitefont">Bib Number</span>
 							</a>
 						</div>
 						<!-- /sponsor -->
@@ -192,8 +195,8 @@
 						<!-- sponsor -->
 						<div class="col-md-4 col-sm-4 col-xs-6">
 							<a href="#" class="sponsor">
-								<img src="ix/img/racepack 1.png" alt="">
-								<span class="whitefont">Lorem</span>
+								<img src="ix/img/bag.png" alt="">
+								<span class="whitefont">Bag</span>
 							</a>
 						</div>
 						<!-- /sponsor -->
@@ -256,7 +259,7 @@
 					<h3 class="title"><span>The</span> <span style="color: #dd0a37;">Route</span></h3>
 				</div>
 				<!-- /section title -->
-				<img src="ix/img/rute.png" style="width: 100%">
+				<img src="ix/img/Plan A.png" style="width: 100%">
 
 			</div>
 			<!-- row -->
@@ -278,8 +281,7 @@
 				<div class="col-md-8 col-md-offset-2">
 					<div class="cta-content text-center">
 						<h2>Get Ticket Now!</h2>
-						<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-						<a href="/user/register/event?event=fun-run" class="main-btn">join us</a>
+						<a href="/user/register/event?event=fun-run" class="main-btn">buy ticket</a>
 					</div>
 				</div>
 				<!-- /cta content -->
@@ -389,7 +391,7 @@
 				<div class="col-sm-4">
 					<div class="contact">
 						<h3>Address</h3>
-						<p>2635 Simons Hollow Road, NEW YORK</p>
+						<p>Jalan Prof. Dr. Sujudi, Pondok Cina, Beji, Kota Depok, Jawa Barat 16424, Indonesia</p>
 					</div>
 				</div>
 				<!-- /contact -->
@@ -397,8 +399,8 @@
 				<!-- contact -->
 				<div class="col-sm-4">
 					<div class="contact">
-						<h3>Phone</h3>
-						<p>570-751-2415</p>
+						<h3>Official Line</h3>
+						<p>@bby2266y</p>
 					</div>
 				</div>
 				<!-- /contact -->
@@ -407,7 +409,7 @@
 				<div class="col-sm-4">
 					<div class="contact">
 						<h3>Email</h3>
-						<a href="#">event@support.com</a>
+						<a href="#">cs@spare.com</a>
 					</div>
 				</div>
 				<!-- /contact -->
@@ -416,6 +418,10 @@
 			<!-- /row -->
 		</div>
 		<!-- /container -->
+
+		<!-- Map -->
+		<div id="map"></div>
+		<!-- /Map -->
 	</div>
 	<!-- /Contact -->
 
@@ -426,14 +432,21 @@
 			<!-- row -->
 			<div class="row">
 
-				
+				<!-- footer logo -->
+				<div class="col-md-4 col-md-push-4">
+					<div class="footer-brand">
+						<a class="logo" href="index.html">
+						</a>
+					</div>
+				</div>
+				<!-- /footer logo -->
 
 				<!-- contact social -->
-				<div class="col-md-4 col-md-push-8">
+				<div class="col-md-4 col-md-push-4">
 					<div class="contact-social">
-						<a href="#"><i class="fa fa-youtube-play"></i></a>
-						<a href="#"><i class="fa fa-twitter"></i></a>
-						<a href="#"><i class="fa fa-instagram"></i></a>
+						<a href="https://www.youtube.com/channel/UC1k7q2pWaFum0Mvt3DNGdvw"><i class="fa fa-youtube-play"></i></a>
+						<a href="https://twitter.com/sparefkmui"><i class="fa fa-twitter"></i></a>
+						<a href="https://www.instagram.com/sparefkmui/"><i class="fa fa-instagram"></i></a>
 					</div>
 				</div>
 				<!-- /contact social -->
@@ -442,7 +455,7 @@
 				<div class="col-md-4 col-md-pull-8">
 					<span class="copyright"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved
-</span>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></span>
 				</div>
 				<!-- /copyright -->
 

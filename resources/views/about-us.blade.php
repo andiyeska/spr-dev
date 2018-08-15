@@ -91,7 +91,7 @@
 	<!-- Home -->
 	<div id="home">
 		<!-- background image -->
-		<div class="section-bg" style="background-image:url(./img/background01.jpg)" data-stellar-background-ratio="0.5"></div>
+		<div class="section-bg" style="background-image:url(./img/bg2.jpg)" data-stellar-background-ratio="0.5"></div>
 		<!-- /background image -->
 
 		<!-- home wrapper -->
@@ -336,8 +336,8 @@
 				<!-- contact -->
 				<div class="col-sm-4">
 					<div class="contact">
-						<h3>Phone</h3>
-						<p>570-751-2415</p>
+						<h3>Official Line</h3>
+						<p>@bby2266y</p>
 					</div>
 				</div>
 				<!-- /contact -->
@@ -369,13 +369,21 @@
 			<!-- row -->
 			<div class="row">
 
+				<!-- footer logo -->
+				<div class="col-md-4 col-md-push-4">
+					<div class="footer-brand">
+						<a class="logo" href="index.html">
+						</a>
+					</div>
+				</div>
+				<!-- /footer logo -->
 
 				<!-- contact social -->
-				<div class="col-md-4 col-md-push-8">
+				<div class="col-md-4 col-md-push-4">
 					<div class="contact-social">
-						<a href="#"><i class="fa fa-youtube-play"></i></a>
-						<a href="#"><i class="fa fa-twitter"></i></a>
-						<a href="#"><i class="fa fa-instagram"></i></a>
+						<a href="https://www.youtube.com/channel/UC1k7q2pWaFum0Mvt3DNGdvw"><i class="fa fa-youtube-play"></i></a>
+						<a href="https://twitter.com/sparefkmui"><i class="fa fa-twitter"></i></a>
+						<a href="https://www.instagram.com/sparefkmui/"><i class="fa fa-instagram"></i></a>
 					</div>
 				</div>
 				<!-- /contact social -->
@@ -384,7 +392,7 @@
 				<div class="col-md-4 col-md-pull-8">
 					<span class="copyright"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved
-</span>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></span>
 				</div>
 				<!-- /copyright -->
 

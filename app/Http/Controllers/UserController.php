@@ -24,9 +24,12 @@ class UserController extends Controller
     	$registrations = Registration::where('user_id', $id)
     		->whereYear('registration_date', '=', date('Y'))->get();
 
+        $ordertype = "Tipe Order";
+
     	return view('user-profile', array(
     		'user' => $user, 
-    		'registrations' => $registrations
+    		'registrations' => $registrations,
+            'ordertype' => $ordertype
     		));
 
     }
